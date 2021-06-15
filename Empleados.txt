@@ -1,0 +1,14 @@
+Lista de Empleados
+
+Fernando,Gonzalez,02-04-1982,90510
+Roberto,Enciso,16-07-1994,78600
+Hector,Brown,13-10-1988,98653
+Soledad,Estigarribia,18-12-1990,135256
+Martin,Bazterrica,01-05-1996,35290
+Claudio,Morales,23-11-1977,154820
+Julieta,López,13-09-1985,79845
+Pablo,Ramos,18-02-1975,164400
+Romina,Espitale,11-06-1971,197675
+Laura,Sigal,22-03-1979,138723
+
+
